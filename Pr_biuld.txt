@@ -1,9 +1,7 @@
 this is the new git hub pull request builder
 
-<<<<<<< HEAD
 This what I mean
 
 why its not working
-=======
-This what I mean
->>>>>>> 3948a2d62a7fbd514054bdcc1e689a633ed8fb9e
+
+i Dont know
